@@ -14,9 +14,8 @@ I am currently working under Dr. Brittany Bannish Laverty on computational model
 
 ##### 3. Creating a Prediction model using pytourch to build and train artificial neural network(ANN) with a dataset consisting of 2 million observations with 9 chemical factors (independent variables) affectiong the time it take for the fibrinolysis(dependent variable). (I was able to turn this into my academic project as well by applying the concepts I learnt from the course "Algorithms for machine learning" taught by Dr. Jicheng Fu)
 
-This is an NSF - Funded project and due to some constraints i cannot share the whole work in the github but i am happy to explain someone who is interested to know about my research work. You can contact me through my linkdin profile which you can find in my profile.
+This is an NSF - Funded project and due to some constraints i cannot share the whole work in the github but i am happy to explain someone who is interested to know about tools and techniques i implemented in my research work. You can contact me through my linkdin profile which you can find in my github profile or in the contact me section below.
 
-Contact me to know more about tools and techniques i implemented in my research work
 
 
 ## Research Publications and Presentations
