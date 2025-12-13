@@ -24,7 +24,7 @@ I am currently working on the computational modeling efforts for a project on **
 * **Context:** Enhanced via coursework in *Applied Regression Analysis* (Dr. Tyler Cook).
 
 ### 3. Deep Learning Prediction Model
-* **Objective:** Predicting fibrinolysis time based on chemical composition.
+* **Objective:** Predicting fibrinolysis time based on chemical factors.
 * **Tech Stack:** **PyTorch**, Artificial Neural Networks (ANN).
 * **Data Scale:** Trained on a dataset of **2 million observations** with 9 independent chemical factors.
 * **Context:** Applied advanced optimization techniques from *Algorithms for Machine Learning* (Dr. Jicheng Fu).
