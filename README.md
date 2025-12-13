@@ -16,7 +16,7 @@ I am currently working on the computational modeling efforts for a project on **
 ### 1. Agent-Based Modeling (Fibrinet)
 * **Objective:** Simulating fibrinolysis in physiological environments using a non-linear dynamic model.
 * **Methodology:** Building a spring-mass system to represent protein network collapse under enzymatic attack.
-* **Repository:** [Link to Fibrinet Repo if public, otherwise remove this line]
+* **Repository:** [https://github.com/Mandava-Kamal-09/Fibrinet]
 
 ### 2. Regression Analysis of Chemical Constraints
 * **Objective:** Identifying chemical factors inhibiting or accelerating clot degradation.
