@@ -8,11 +8,11 @@ I am a graduate student in Data Science at the University of Central Oklahoma. I
 
 ## Current Research
 I am currently working under Dr. Brittany Bannish Laverty on computational modeling of fibrinolysis project which is divided into 3 subprojects which i am working on:
-### 1. Building a computational mathematical model(Fibrinet) for modeling fibrinolysis in human beings, I am building an agent based model which is a non linear dynamic model, more details about my research can be found at my repository named: Fibrinet
+##### 1. Building a computational mathematical model(Fibrinet) for modeling fibrinolysis in human beings, I am building an agent based model which is a non linear dynamic model, more details about my research can be found at my repository named: Fibrinet
 
-### 2. Performing Regression analysis on the chemical constraints that are affecting the fibrinolysis or clot degradation, more details about Regression analysis can be found at my repository named: Fibrinolysis-Regression. (I was able to turn this into my academic project as well in-order to finish the final project submission for the subject - Applied Regression analysis taught by Dr. Tyler Cook)
+##### 2. Performing Regression analysis on the chemical constraints that are affecting the fibrinolysis or clot degradation, more details about Regression analysis can be found at my repository named: Fibrinolysis-Regression. (I was able to turn this into my academic project as well in-order to finish the final project submission for the subject - Applied Regression analysis taught by Dr. Tyler Cook)
 
-### 3. Creating a Prediction model using pytourch to build and train artificial neural network(ANN) with a dataset consisting of 2 million observations with 9 chemical factors (independent variables) affectiong the time it take for the fibrinolysis(dependent variable). (I was able to turn this into my academic project as well by applying the concepts I learnt from the course "Algorithms for machine learning" taught by Dr. Jicheng Fu)
+##### 3. Creating a Prediction model using pytourch to build and train artificial neural network(ANN) with a dataset consisting of 2 million observations with 9 chemical factors (independent variables) affectiong the time it take for the fibrinolysis(dependent variable). (I was able to turn this into my academic project as well by applying the concepts I learnt from the course "Algorithms for machine learning" taught by Dr. Jicheng Fu)
 
 This is an NSF - Funded project and due to some constraints i cannot share the whole work in the github but i am happy to explain someone who is interested to know about my research work. You can contact me through my linkdin profile which you can find in my profile.
 
@@ -20,14 +20,14 @@ Contact me to know more about tools and techniques i implemented in my research 
 
 
 ## Research Publications and Presentations
-### Manuscripts in Preparation
+##### Manuscripts in Preparation
 Computational Framework for Modeling Fibrinolysis (FibriNet)
 Authors: Brittany Bannish, Kamal Mandava
 
-### Analysis of Chemical Factors affecting Fibrinolysis
+##### Analysis of Chemical Factors affecting Fibrinolysis
 Authors: Brittany Bannish Laverty, Austin Segrest, Kamal Mandava
 
-### Poster Presentation
+##### Poster Presentation
 Dynamic Days US 2026(Tucson, AZ): "Dynamical Degradation of Fibrin Networks: A Spring-Mass Approach to Network Collapse Analysis" (jan 09-11)
 
 ## How to reach me? You can connect with me on
