@@ -4,7 +4,7 @@
 I am a graduate student in **Data Science** at the University of Central Oklahoma with a **Bachelor of Technology in Biotechnology**. My background bridges the gap between life sciences and computational analysis.
 
 I am an **aspiring Ph.D. candidate in Computer Science (Fall 2026)**, passionate about interdisciplinary research at the intersection of:
-* **Computer Science** (Agent-Based Modeling, Machine Learning)
+* **Computer Science** (Agent-Based Modeling, Machine Learning, complex systems)
 * **Applied Mathematics** (Non-linear Dynamics)
 * **Computational Physics** (Soft Matter, Biophysics)
 
