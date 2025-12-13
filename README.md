@@ -20,14 +20,14 @@ Contact me to know more about tools and techniques i implemented in my research 
 
 
 ## Research Publications and Presentations
-Manuscripts in Preparation
+# Manuscripts in Preparation
 Computational Framework for Modeling Fibrinolysis (FibriNet)
 Authors: Brittany Bannish, Kamal Mandava
 
-Analysis of Chemical Factors affecting Fibrinolysis
+# Analysis of Chemical Factors affecting Fibrinolysis
 Authors: Brittany Bannish Laverty, Austin Segrest, Kamal Mandava
 
-Poster Presentation
+# Poster Presentation
 Dynamic Days US 2026(Tucson, AZ): "Dynamical Degradation of Fibrin Networks: A Spring-Mass Approach to Network Collapse Analysis" (jan 09-11)
 
 ## How to reach me? You can connect with me on
