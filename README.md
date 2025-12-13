@@ -7,7 +7,7 @@ I am a graduate student in Data Science at the University of Central Oklahoma. I
 
 
 ## Current Research
-I am currently working under Dr. Brittany Bannish Laverty on computational modeling of fibrinolysis project which is divided into 3 subprojects which i am working on:
+I am currently working under Dr. Brittany Bannish Laverty on computational modeling of fibrinolysis project which is divided into 3 subprojects that i am working on:
 ##### 1. Building a computational mathematical model(Fibrinet) for modeling fibrinolysis in human beings, I am building an agent based model which is a non linear dynamic model, more details about my research can be found at my repository named: Fibrinet
 
 ##### 2. Performing Regression analysis on the chemical constraints that are affecting the fibrinolysis or clot degradation, more details about Regression analysis can be found at my repository named: Fibrinolysis-Regression. (I was able to turn this into my academic project as well in-order to finish the final project submission for the subject - Applied Regression analysis taught by Dr. Tyler Cook)
