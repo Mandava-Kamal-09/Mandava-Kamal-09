@@ -9,7 +9,7 @@ I am an **aspiring Ph.D. candidate in Computer Science (Fall 2026)**, passionate
 * **Computational Physics** (Soft Matter, Biophysics)
 
 ## Current Research
-**Advisor:** [Dr. Brittany Bannish](https://www3.uco.edu/centraldirectory/profiles/828858) | **Funding:** NSF (National Science Foundation)
+**Advisor:** [Dr. Brittany Bannish](https://www3.uco.edu/centraldirectory/profiles/828858) | **Funding:** NIH (National Institute of Health)
 
 I am currently working on the computational modeling efforts for a project on **Fibrinolysis** (blood clot degradation). My work is divided into three core computational components:
 
