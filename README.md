@@ -44,7 +44,7 @@ I am currently working on the computational modeling efforts for a project on **
 ### Conference Presentations
 * **Dynamics Days US 2026 (Tucson, AZ)**
     * *Title:* "Dynamical Degradation of Fibrin Networks: A Spring-Mass Approach to Network Collapse Analysis"
-    * *Date:* Jan 9–11, 2026 (Poster Presentation - Accepted)
+    * *Date:* Jan 9–11, 2026 (Poster Presentation)
 
 ---
 
